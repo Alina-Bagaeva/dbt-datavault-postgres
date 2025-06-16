@@ -8,3 +8,4 @@ sources:
       - name: as_of_date
       - name: weekly_orders
       - name: customer_order_count
+      - name: pit_customer
